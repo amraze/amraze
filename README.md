@@ -13,9 +13,11 @@
 <div>Angular • Javascript • React • Bootstrap • React Native</div>
 <div> Laravel • PHP • CodeIgniter • CakePHP • ExpressJS • Django • Python </div>
 <div>MySQL • MongoDB</div>
+<br>
 
 <div><b> - Software Design :</b></div>
 <div> Clean Code Principles • OOP • Programming Paradigms • Design Patterns • Design Principles </div>
+<br>
 
 <div><b> - Software Testing & Deployment :</b></div>
 <div>PHPUnit • Git (GitFlow) • Web Hosting • Internet</div>
