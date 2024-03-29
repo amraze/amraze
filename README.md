@@ -23,7 +23,10 @@
 <div>PHPUnit • Git (GitFlow) • Web Hosting • Internet</div>
 
 <br>
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amraze&show_icons=true&locale=en" alt="amraze" /></p>
-  
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amraze&show_icons=true&locale=en&include_all_commits=true&hide_rank=true&hide_title=true&theme=transparent&hide_border=true" alt="amraze" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraze&hide_progress=true&theme=transparent&hide_border=true" alt="amraze" /></td>
+  </tr>
+</table>
+
