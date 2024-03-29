@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Ahmed Mestiri</h1>
+<h3 align="center">ICT Engineer, works mainly on analysing, designing and developing software solutions.</h3>
+<h4 align="center">Software Developer @Fabskill, Tunisia</h4>
+<h3 align="left">Connect with me:</h3>
 
-<!--
-**amraze/amraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Portfolio : [https://portfolio-amraze.vercel.app/](https://portfolio-amraze.vercel.app/)
 
-Here are some ideas to get you started:
+- Email : **ahmed.mestiri@supcom.tn**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Skills:</h3>
+<div><b> - Software Development :</b></div>
+<div>Angular • Javascript • React • Bootstrap • React Native</div>
+<div> Laravel • PHP • CodeIgniter • CakePHP • ExpressJS • Django • Python </div>
+<div>MySQL • MongoDB</div>
+
+<div><b> - Software Design :</b></div>
+<div> Clean Code Principles • OOP • Programming Paradigms • Design Patterns • Design Principles </div>
+
+<div><b> - Software Testing & Deployment :</b></div>
+<div>PHPUnit • Git (GitFlow) • Web Hosting • Internet</div>
+
+<br>
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amraze&show_icons=true&locale=en" alt="amraze" /></p>
+  
+</div>
