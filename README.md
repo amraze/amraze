@@ -25,7 +25,7 @@
 <br>
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=amraze&theme=transparent" alt="amraze" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=amraze&theme=transparent&hide_border=true" alt="amraze" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraze&hide_progress=true&theme=transparent&hide_border=true" alt="amraze" /></td>
   </tr>
 </table>
